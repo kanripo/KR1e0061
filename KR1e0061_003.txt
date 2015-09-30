@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 程氏春秋或問
-#+DATE: 2015-09-23 09:39:58
-#+PROPERTY: JUAN 3
+#+DATE: 2015-08-24 22:15:00.459527
+#+PROPERTY: ID KR1e0061
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三
 <pb:KR1e0061_WYG_003-1a>¶
 欽定四庫全書¶
 　春秋或問卷三　　　　　元　程端學　撰¶
@@ -758,4 +760,3 @@
 　為詳密極為正大但其曰不追配與葉氏諸家少異¶
 　耳¶
 　春秋或問巷三¶
-

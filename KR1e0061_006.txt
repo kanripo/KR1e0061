@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 程氏春秋或問
-#+DATE: 2015-09-23 09:39:58
-#+PROPERTY: JUAN 6
+#+DATE: 2015-08-24 22:15:00.523774
+#+PROPERTY: ID KR1e0061
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六
 <pb:KR1e0061_WYG_006-1a>¶
 欽定四庫全書¶
 　春秋或問卷六　　　　　元　程端學　撰¶
@@ -362,4 +364,3 @@
 　¶
 　¶
 　春秋或問卷六¶
-
